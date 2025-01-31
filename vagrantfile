@@ -1,0 +1,5 @@
+/7"
+  config.vm.box_version = "2004.01"
+end
+:wq
+
